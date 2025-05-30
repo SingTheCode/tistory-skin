@@ -53,9 +53,6 @@ class DarkMode {
  * Set dark Mode
  */
 const darkMode = new DarkMode()
-
-darkMode.preferred && darkMode.toggle()
-
 /**
  * Console Issues
  *
